@@ -7,13 +7,13 @@ layout: default
 Welcome to my GitHub homepage!
 
 I’m a **Assistant Professor** who loves working on  
-**[your focus areas — e.g., open-source, AI, full-stack development, security, etc.]**.
+** open-source, AI, computer vision, security, etc.]**.
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: **[project or area]**
-- 🌱 Learning: **[technology or topic]**
+- 🔭 I’m currently working on: **[MIMIC-IV]**
+- 🌱 Learning: **[AI]**
 - 💬 Ask me about: **[your expertise]**
 - 📫 How to reach me: **[email or social links]**
 - 🌐 Website/Portfolio: **[your website]**
